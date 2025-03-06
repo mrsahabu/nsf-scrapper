@@ -6,6 +6,7 @@ This script scrapes research award data from the NSF (National Science Foundatio
 ### Key Statistics
 - **Total Emails Scraped:** 9.5 million
 - **Unique Emails Extracted:** 67,000
+- **Scraper Duration:** From **February 12, 2025** to **March 5, 2025**
 
 ## Features
 - **Multi-threading:** Uses `ThreadPoolExecutor` to improve performance.
